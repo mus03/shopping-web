@@ -45,7 +45,7 @@
   color: #f00;
   font-size: 68px;
   font-weight: 700;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 .title > p {
   color: #f00;
@@ -75,7 +75,7 @@
   width: 86%;
   max-width: 1536px;
   border-radius: 16px;
-  margin: 50px auto;
+  margin: 100px auto;
   height: 598px;
   background-repeat: no-repeat;
   display: flex;
@@ -120,4 +120,117 @@
   height: 464.662px;
   padding: 170px 219px 0px 0px;
 }
+
 /* main section three */
+.main-three-three {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  width: 86%;
+  max-width: 1536px;
+  border-radius: 16px;
+  margin: 5px auto;
+  height: 598px;
+}
+.main-three-text {
+  padding: 130px 360px 70px;
+  text-align: center;
+}
+.typo {
+  color: #f00;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.three-description {
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+.main-three-button {
+  text-align: center;
+}
+.btn {
+  padding: 16px 32px;
+  border-radius: 8px;
+  background: #f00;
+  border: none;
+}
+
+/* main section four */
+.main-four-four {
+  display: flex;
+  width: 86%;
+  max-width: 1536px;
+  border-radius: 16px;
+  margin: 50px auto;
+  height: 588px;
+  justify-content: space-between;
+}
+.body-1 {
+  width: 30%;
+  margin: 100px 10px 50px 50px;
+}
+.body-1 > h6 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+}
+.body-1 > h4 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  margin-top: 5px;
+}
+.body-1 > p {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  width: 317px;
+  margin-top: 22px;
+}
+
+.body-2 > img {
+  width: 463px;
+  height: 463px;
+  border-radius: 463px;
+  border: 15px solid #f00;
+  padding: 48px;
+}
+.body-3 {
+  margin: 100px 5px 50px 50px;
+}
+.body-3 > h4 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.body-3 > p {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 5px;
+}
+.body-3 > img {
+  width: 140px;
+  height: 140px;
+  margin-top: 45px;
+}
+/* main section five */
