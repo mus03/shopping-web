@@ -7,7 +7,6 @@
 .banner {
   border-radius: 16px;
   background-image: url("../images/banner.png");
-
   width: 86%;
   max-width: 1536px;
   margin: 20px auto;
@@ -32,3 +31,42 @@
   font-weight: 900;
   line-height: 70px;
 }
+/* main style start */
+/* main section one */
+.main-one {
+  width: 86%;
+  max-width: 1536px;
+}
+.title {
+  font-family: Inter;
+  text-align: center;
+}
+.title > h2 {
+  color: #f00;
+  font-size: 68px;
+  font-weight: 700;
+  margin-top: 100px;
+}
+.title > p {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.title > h3 {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 5px;
+  margin-bottom: 48px;
+}
+.picture {
+  width: 50%;
+  height: 10%;
+  margin: 0 auto;
+}
+.picture > img {
+  width: 100%;
+  height: 10%;
+}
+/* main section two */
